@@ -5,7 +5,7 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-%3E=4.0-blue.svg)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%3E=2.x-orange.svg)
 ![Project Year](https://img.shields.io/badge/Year-2024-green.svg)
-[![trophy](https://github-profile-trophy.vercel.app/?oneterabyte7=ryo-ma&theme=onedark)
+[![trophy](https://github-profile-trophy.vercel.app/?OneTeraByte7=ryo-ma&theme=onedark)
 
 A real-time Sign Language Recognition system using computer vision and deep learning. This project detects hand gestures from a webcam feed using OpenCV and classifies them using a trained TensorFlow model. The recognized sign is then displayed as text and spoken aloud using text-to-speech synthesis.
 
