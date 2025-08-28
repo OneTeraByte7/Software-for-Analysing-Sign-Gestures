@@ -13,7 +13,7 @@ A real-time Sign Language Recognition system using computer vision and deep lear
 
 ## ✨ Features
 
-- 📷 Real-time hand gesture detection via webcam
+- 📷 Real-time hand gesture detection via webcam/Feeds
 - 🤖 CNN-based sign language classifier (TensorFlow)
 - 💬 Live on-screen text display of predicted sign
 - 🔊 Audio output using Text-to-Speech (TTS)
