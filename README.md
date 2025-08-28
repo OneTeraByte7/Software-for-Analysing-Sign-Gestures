@@ -19,7 +19,7 @@ A real-time Sign Language Recognition system using computer vision and deep lear
 - 🔊 Audio output using Text-to-Speech (TTS)
 - 🧠 Custom trained model for ASL/Fingerspelling
 - ✅ Minimal setup – just install dependencies and run
-- 🛠️ Modular scripts for training, inference, and UI
+- 🛠️ Modular scripts for training, inference, UI and simply understanding
 
 ---
 
